@@ -2,7 +2,7 @@
 # so you can extract them with some liquid markup like:
 #
 #   {% for link in page.links %}
-#       <br>{{ link.href }} {{ link.cleaner_href }} {{ link.href }}
+#       <br>{{ link.title }} {{ link.cleaner_href }} {{ link.href }}
 #   {% endfor %}
 #
 # The cleaner_href is the href with campaign utm and Chrome deep text links cruft
