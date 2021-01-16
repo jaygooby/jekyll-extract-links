@@ -1,7 +1,7 @@
 # jekyll-extract-links
 Gets all the links from your posts and adds them to the page.data for that post.
 
-You can use then use them in your liquid markup:
+You can then use them in your liquid markup:
 
 ```liquid
 <ul>
